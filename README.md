@@ -24,7 +24,7 @@ Click the button below to fork the repository and get your own copy:
 ---
 ## ⌛ WHATSAPP CHANNEL SUPPORT 
 
-[![INCONNU BOY TECH](https://img.shields.io/badge/JOIN%20MY-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VbC6It7K0IBkQwaKYd2J)
+[![INCONNU BOY TECH](https://img.shields.io/badge/JOIN%20MY-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)][(https://www.whatsapp.com/channel/0029VbCS98iFsn0iAYFquS1h])
 
 ---
 
@@ -131,8 +131,8 @@ jobs:
 ```
 
 ## ❤️ Credits
-[![GitHub - asunax509-igtm](https://img.shields.io/badge/GitHub-INCONNU--BOY-181717?style=for-the-badge&logo=github)](https://github.com/asunax509-igtm)
+[![GitHub - asunax509-igtm](https://img.shields.io/badge/GitHub-GUIVARRA--BOY-181717?style=for-the-badge&logo=github)](https://github.com/asunax509-igtm)
 
 ---
 
-![MADE BY GUIVARRA](https://img.shields.io/badge/MADE%20BY-INCONNU%20BOY-blueviolet?style=for-the-badge&logo=markdown)
+![MADE BY GUIVARRA](https://img.shields.io/badge/MADE%20BY-GUIVARRA%20BOY-blueviolet?style=for-the-badge&logo=markdown)
