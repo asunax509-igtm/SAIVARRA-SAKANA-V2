@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/e1k73u.jpg" width="800"/>
+  <img src="https://ia601506.us.archive.org/2/items/chat-gpt-image-may-12-2026-01-49-32-pm_202605/ChatGPT%20Image%20May%2012%2C%202026%2C%2001_49_32%20PM.png" width="800"/>
 </p>
 ---
 
