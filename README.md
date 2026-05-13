@@ -24,7 +24,7 @@ Click the button below to fork the repository and get your own copy:
 ---
 ## ⌛ WHATSAPP CHANNEL SUPPORT 
 
-[![INCONNU BOY TECH](https://img.shields.io/badge/JOIN%20MY-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)][(https://www.whatsapp.com/channel/0029VbCS98iFsn0iAYFquS1h])
+[![GUIVARRA](https://img.shields.io/badge/JOIN%20MY-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://www.whatsapp.com/channel/0029VbCS98iFsn0iAYFquS1h)
 
 ---
 
