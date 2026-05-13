@@ -56,7 +56,7 @@ async function downloadSessionData() {
         return false;
     }
 
-    const sessdata = config.SESSION_ID.split("SAIVARRA~XD~")[1];
+    const sessdata = config.SESSION_ID.split("INCONNU~XD~")[1];
 
     if (!sessdata || !sessdata.includes("#")) {
         console.error('❌ Invalid SESSION_ID format! It must contain both file ID and decryption key.');
@@ -89,13 +89,13 @@ async function start() {
     try {
         const { state, saveCreds } = await useMultiFileAuthState(sessionDir);
         const { version, isLatest } = await fetchLatestBaileysVersion();
-        console.log(`🤖 SAIVARRA-SAKANA-V2 using WA v${version.join('.')}, isLatest: ${isLatest}`);
+        console.log(`🤖 SAIVARRA using WA v${version.join('.')}, isLatest: ${isLatest}`);
         
         const Matrix = makeWASocket({
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: ["SAIVARRA-SAKANA-V2", "safari", "3.3"],
+            browser: [SAIVARRA-XD", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
@@ -117,7 +117,7 @@ async function start() {
                     console.log(chalk.green("Connected Successfully SAIVARRA-SAKANA-V2 🤍"));
 Matrix.newsletterFollow("120363397722863547@newsletter");                    
                     Matrix.sendMessage(Matrix.user.id, { 
-                        image: { url: "https://files.catbox.moe/230q0c.jpg" }, 
+                        image: { url: "https://ia801506.us.archive.org/2/items/chat-gpt-image-may-12-2026-01-49-32-pm_202605/ChatGPT%20Image%20May%2012%2C%202026%2C%2001_49_32%20PM.png" }, 
                         caption: `╓─────────────────╖
 │WELCOME TO SAIVARRA-SAKANA-V2
 ╙─────────────────╜
