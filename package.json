@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name INCONNU-XD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name SAIVARRA-SAKANA_v2",
     "stop": "pm2 stop SAIVARRA-SAKANA_v2", 
     "restart": "pm2 restart SAIVARRA-SAKANA_v2",
     "dev": "node index.js"
