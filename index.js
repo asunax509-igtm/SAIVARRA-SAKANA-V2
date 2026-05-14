@@ -56,7 +56,7 @@ async function downloadSessionData() {
         return false;
     }
 
-    const sessdata = config.SESSION_ID.split("INCONNU~XD~")[1];
+    const sessdata = config.SESSION_ID.split("saivarra~XD~")[1];
 
     if (!sessdata || !sessdata.includes("#")) {
         console.error('❌ Invalid SESSION_ID format! It must contain both file ID and decryption key.');
@@ -95,7 +95,7 @@ async function start() {
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: [SAIVARRA-XD", "safari", "3.3"],
+            browser: ["SAIVARRA-XD", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
